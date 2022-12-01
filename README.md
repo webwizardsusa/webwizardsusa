@@ -20,3 +20,6 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://raw.githubusercontent.com/webwizardsusa/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="webwizardsusa" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://raw.githubusercontent.com/webwizardsusa/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="webwizardsusa" /></a> </p>
+
