@@ -1,10 +1,9 @@
-<div style="position: relative;">
-    <h1 align="center">Webwizards USA</h1>
-    <div>
-        <p align="left" style="position: absolute;right:0;top:0;"> <img
-                src="https://komarev.com/ghpvc/?username=webwizardsusa&label=Profile%20views&color=0e75b6&style=flat"
-                alt="sven3270350" /> </p>
-    </div>
+<div>
+    <h1 align="center">
+        Webwizards USA
+     <img src="https://komarev.com/ghpvc/?username=webwizardsusa&label=Profile%20views&color=0e75b6&style=flat"
+                alt="sven3270350" style="float:"right";  />
+    </h1>
 
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
