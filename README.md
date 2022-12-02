@@ -9,10 +9,10 @@
 
 <!-- <p style="float: right;"> </p> -->
 <a href="https://webwizardsusa.com/about-us/" target="_blank" rel="noreferrer"> <img
-        src="https://github.com/webwizardsusa/webwizardsusa/blob/master/image_2022_12_02T11_21_24_051Z.png"
+        src="https://github.com/webwizardsusa/webwizardsusa/blob/master/image_2022_12_02T11_40_18_779Z.png"
         alt="html5" width="321" height="223" /> </a>
         <a href="https://webwizardsusa.com/about-us/" target="_blank" rel="noreferrer"> <img
-                src="https://github.com/webwizardsusa/webwizardsusa/blob/master/image_2022_12_02T11_21_11_034Z.png"
+                src="https://github.com/webwizardsusa/webwizardsusa/blob/master/image_2022_12_02T11_40_48_138Z.png"
                 alt="html5" width="321" height="223" /> </a>
 
  💬 A creative digital agency with a decade experience in web services and beyond.<br>
