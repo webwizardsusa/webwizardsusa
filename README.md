@@ -1,7 +1,7 @@
 <h1 align="center"> Webwizards USA
         <p align="center">
                 <img
-                src="https://github.com/webwizardsusa/webwizardsusa/blob/master/image_2022_12_02T11_21_11_034Z.pngt"
+                src=""
                 alt="sven3270350"/>
         </p>
 </h1>
@@ -10,10 +10,10 @@
 <!-- <p style="float: right;"> </p> -->
 <a href="https://webwizardsusa.com/about-us/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/webwizardsusa/webwizardsusa/blob/master/image_2022_12_02T11_21_24_051Z.png"
-        alt="html5" width="321" height="96" /> </a>
+        alt="html5" width="321" height="223" /> </a>
         <a href="https://webwizardsusa.com/about-us/" target="_blank" rel="noreferrer"> <img
-                src="https://webwizardsusa.com/wp-content/uploads/2018/07/New_Pender_Logo.png"
-                alt="html5" width="71" height="96" /> </a>
+                src="https://github.com/webwizardsusa/webwizardsusa/blob/master/image_2022_12_02T11_21_11_034Z.png"
+                alt="html5" width="321" height="223" /> </a>
 
  💬 A creative digital agency with a decade experience in web services and beyond.<br>
  💬 We etch masterpieces in web which stand out for its uniqueness and finesse.
