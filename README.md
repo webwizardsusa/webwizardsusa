@@ -1,7 +1,7 @@
 <h1 align="center"> Webwizards USA
         <p align="center">
                 <img
-                src="https://komarev.com/ghpvc/?username=webwizardsusa&label=Profile%20views&color=0e75b6&style=flat"
+                src="https://github.com/webwizardsusa/webwizardsusa/blob/master/image_2022_12_02T11_21_11_034Z.pngt"
                 alt="sven3270350"/>
         </p>
 </h1>
@@ -9,7 +9,7 @@
 
 <!-- <p style="float: right;"> </p> -->
 <a href="https://webwizardsusa.com/about-us/" target="_blank" rel="noreferrer"> <img
-        src="https://webwizardsusa.com/wp-content/uploads/2018/07/l_sos.png"
+        src="https://github.com/webwizardsusa/webwizardsusa/blob/master/image_2022_12_02T11_21_24_051Z.png"
         alt="html5" width="321" height="96" /> </a>
         <a href="https://webwizardsusa.com/about-us/" target="_blank" rel="noreferrer"> <img
                 src="https://webwizardsusa.com/wp-content/uploads/2018/07/New_Pender_Logo.png"
