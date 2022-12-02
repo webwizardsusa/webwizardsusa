@@ -1,8 +1,12 @@
 <h1 align="center"> Webwizards USA
-        <img
-        src="https://komarev.com/ghpvc/?username=webwizardsusa&label=Profile%20views&color=0e75b6&style=flat"
-        alt="sven3270350" style="float: right;"/>
+        <p align="center">
+                <img
+                src="https://komarev.com/ghpvc/?username=webwizardsusa&label=Profile%20views&color=0e75b6&style=flat"
+                alt="sven3270350"/>
+        </p>
 </h1>
+
+
 <!-- <p style="float: right;"> </p> -->
 
  💬 Ask me about **React, Node, Laravel, Vue, Web3, Typescript, Javascript**<br>
