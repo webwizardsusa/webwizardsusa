@@ -8,9 +8,16 @@
 
 
 <!-- <p style="float: right;"> </p> -->
+<a href="https://webwizardsusa.com/about-us/" target="_blank" rel="noreferrer"> <img
+        src="https://webwizardsusa.com/wp-content/uploads/2018/07/l_sos.png"
+        alt="html5" width="250" height="150" /> </a>
 
- 💬 Ask me about **React, Node, Laravel, Vue, Web3, Typescript, Javascript**<br>
- 📫 How to reach me **webwizardsusa@gmail.com**
+ 💬 A creative digital agency with a decade experience in web services and beyond.
+ We etch masterpieces in web which stand out for its uniqueness and finesse.
+ When ideas of like minded individuals take shape the result is nothing less than awesome! ﻿ Bart & Raj - The masterminds behind the inception of this production house have believed in collaborating and connecting to newer ideas, across the length and breadth of the globe. 
+ <br>
+ <br>
+ 📫 How to reach me **webwizardsusa@gmail.com** **bart.cassidy@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 <h3>Languages and Tools:</h3>
@@ -161,12 +168,14 @@ alt="wordpress" width="40" height="40" /> </a>
       rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/b/74/bitbucket-icon.svg"
       alt="bitbucket" width="40" height="40" /> </a> 
 </div>
- <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+ <p> 
+        <a href="https://github.com/ryo-ma/github-profile-trophy" style="float: right;"><img
+                src="https://raw.githubusercontent.com/webwizardsusa/github-stats/master/generated/overview.svg#gh-light-mode-only"
+                alt="webwizardsusa" /></a>
+        <a href="https://github.com/ryo-ma/github-profile-trophy"><img
    src="https://raw.githubusercontent.com/webwizardsusa/github-stats/master/generated/languages.svg#gh-light-mode-only"
    alt="webwizardsusa" /></a> 
-<a href="https://github.com/ryo-ma/github-profile-trophy" style="float: right;"><img
-   src="https://raw.githubusercontent.com/webwizardsusa/github-stats/master/generated/overview.svg#gh-light-mode-only"
-   alt="webwizardsusa" /></a></p>
+</p>
    <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img
         src="https://github-profile-trophy.vercel.app/?username=webwizardsusa"
         alt="webwizardsusa" /></a> </p>
