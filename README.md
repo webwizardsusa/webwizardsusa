@@ -15,9 +15,8 @@
                 src="https://webwizardsusa.com/wp-content/uploads/2018/07/New_Pender_Logo.png"
                 alt="html5" width="71" height="96" /> </a>
 
- 💬 A creative digital agency with a decade experience in web services and beyond.
- We etch masterpieces in web which stand out for its uniqueness and finesse.
- When ideas of like minded individuals take shape the result is nothing less than awesome! ﻿ Bart & Raj - The masterminds behind the inception of this production house have believed in collaborating and connecting to newer ideas, across the length and breadth of the globe. 
+ 💬 A creative digital agency with a decade experience in web services and beyond.<br>
+ 💬 We etch masterpieces in web which stand out for its uniqueness and finesse.
  <br>
  <br>
  📫 How to reach me **webwizardsusa@gmail.com**, **bart.cassidy@gmail.com**
@@ -33,7 +32,7 @@
                                 src="https://www.vectorlogo.zone/logos/skype/skype-tile.svg"
                                 alt="skype:bartpcassidy?call" width="40" height="40" /> </a>
 </p>
-<p>We are expert in the following tools and technologies and using in our projects</p>
+<p>We are expertise in the following tools and technologies and using in our projects</p>
 <div style="width:48% !important; border: 1px solid #eee; float:left;padding:25px; margin-right: 2%;">
         <h3 style="font-size: 18px; margin-top: 0; margin-bottom: 15px;">UI Tools:</h3>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
@@ -157,6 +156,10 @@ alt="authorize.net" width="206" height="45" /> </a>
 rel="noreferrer"> <img
 src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg"
 alt="shopify" width="40" height="40" /> </a>
+<a href="https://www.opencart.com/" target="_blank"
+rel="noreferrer"> <img
+src="https://cdn.cdnlogo.com/logos/o/51/opencart.svg"
+alt="shopify" width="100" height="60" /> </a>
 </div>
 <div style="width: 50%; border: 1px solid #eee;padding: 25px;">
         <h3 style="font-size: 18px;margin-top: 0; margin-bottom: 15px;">Database : </h3>
