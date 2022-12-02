@@ -5,9 +5,6 @@
                 alt="sven3270350"/>
         </p>
 </h1>
-
-
-<!-- <p style="float: right;"> </p> -->
 <a href="https://webwizardsusa.com/about-us/" target="_blank" rel="noreferrer"> <img
         src="https://github.com/webwizardsusa/webwizardsusa/blob/master/image_2022_12_02T11_40_18_779Z.png"
         alt="html5" width="339" height="205" /> </a>
