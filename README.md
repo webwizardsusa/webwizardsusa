@@ -216,10 +216,10 @@ alt="hubspot.com" width="40" height="40" /> </a>
 </div>
 <br>
  <p> 
-        <a href="https://webwizardsusa.com" style="float: right;"><img
+        <a href="https://github.com/webwizardsusa/github-stats" style="float: right;"><img
                 src="https://github.com/webwizardsusa/github-stats/blob/master/generated/languages.svg"
                 alt="webwizardsusa" /></a>
-        <a href="https://webwizardsusa.com"><img
+        <a href="https://github.com/webwizardsusa/github-stats"><img
    src="https://github.com/webwizardsusa/github-stats/blob/master/generated/overview.svg"
    alt="webwizardsusa" /></a> 
 </p>
