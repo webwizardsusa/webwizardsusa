@@ -220,7 +220,7 @@ alt="hubspot.com" width="40" height="40" /> </a>
                 src="https://github.com/webwizardsusa/github-stats/blob/master/generated/languages.svg"
                 alt="webwizardsusa" /></a>
         <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-   src="https://raw.githubusercontent.com/webwizardsusa/github-stats/master/generated/languages.svg#gh-light-mode-only"
+   src="https://github.com/webwizardsusa/github-stats/blob/master/generated/overview.svg"
    alt="webwizardsusa" /></a> 
 </p>
    <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img
